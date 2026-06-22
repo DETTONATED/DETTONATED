@@ -10,9 +10,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Machine+Learning+Engineer;Artificial+Intelligence+Enthusiast;Data+Science+Learner;FastAPI+Backend+Developer;Python+Developer;Open+Source+Contributor"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100"/>
-</p>
 
 ## About Me
 
