@@ -82,16 +82,16 @@ Aspiring **Machine Learning Engineer** with a strong interest in **Artificial In
   <img src="https://leetcard.jacoblin.cool/DETTONATED?theme=dark&font=Poppins&ext=contest" alt="LeetCode Stats"/>
 </p>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DETTONATED&theme=algolia&no-frame=true&margin-w=15&row=2&column=4"/>
-</p>
-
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DETTONATED&theme=github-compact&hide_border=true"/>
+</p>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DETTONATED/DETTONATED/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 ### ✍️ Random Dev Quote
