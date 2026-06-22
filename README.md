@@ -40,7 +40,7 @@ Aspiring **Machine Learning Engineer** with a strong interest in **Artificial In
 
 ## 💻 Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,Microsoft_SQL_Server,git,github,vscode,html,css,java,fastapi,opencv,sklearn&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git,github,vscode,html,css,fastapi,opencv,sklearn&perline=8" />
 </p>
 
 ## 📊 GitHub Statistics
