@@ -79,7 +79,7 @@ Aspiring **Machine Learning Engineer** with a strong interest in **Artificial In
 <h2 align="center">🧠 LeetCode</h2>
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/DETTONATED?theme=dark&font=Poppins&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/fvJbNn6v0n?theme=dark&font=Poppins&ext=contest"/>
 </p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
