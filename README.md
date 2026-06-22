@@ -51,7 +51,7 @@ Aspiring **Machine Learning Engineer** with a strong interest in **Artificial In
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DETTONATED&layout=compact&theme=transparent&hide_border=true"/>
 
-</p>e&layout=compact)
+</p>
 
 ## GitHub Streak
 
@@ -59,6 +59,39 @@ Aspiring **Machine Learning Engineer** with a strong interest in **Artificial In
 
 <img src="https://streak-stats.demolab.com?user=DETTONATED&theme=transparent&hide_border=true"/>
 
+</p>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DETTONATED&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DETTONATED&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=DETTONATED&theme=transparent&hide_border=true"/>
+</p>
+
+<h2 align="center">🧠 LeetCode</h2>
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/DETTONATED?theme=dark&font=Poppins&ext=contest"/>
+</p>
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=DETTONATED&theme=algolia&no-frame=true&margin-w=15&row=2&column=4"/>
+</p>
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DETTONATED&theme=github-compact&hide_border=true"/>
 </p>
 
 ### ✍️ Random Dev Quote
