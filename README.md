@@ -53,22 +53,13 @@ Aspiring **Machine Learning Engineer** with a strong interest in **Artificial In
 
 </p>
 
-## GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=DETTONATED&theme=transparent&hide_border=true"/>
-
-</p>
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DETTONATED&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
-  
+
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DETTONATED&layout=compact&theme=transparent&hide_border=true"/>
 </p>
-
 
 <h2 align="center">🔥 GitHub Streak</h2>
 
