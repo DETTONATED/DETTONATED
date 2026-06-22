@@ -76,10 +76,10 @@ Aspiring **Machine Learning Engineer** with a strong interest in **Artificial In
 <img src="https://streak-stats.demolab.com?user=DETTONATED&theme=transparent&hide_border=true"/>
 </p>
 
-<h2 align="center">🧠 LeetCode</h2>
+<h2 align="center">🧠 LeetCode Statistics</h2>
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/DETTONATED?theme=dark&font=Poppins&ext=contest"/>
+  <img src="https://leetcard.jacoblin.cool/DETTONATED?theme=dark&font=Poppins&ext=contest" alt="LeetCode Stats"/>
 </p>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
