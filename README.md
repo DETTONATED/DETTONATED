@@ -16,20 +16,50 @@ Aspiring **Machine Learning Engineer** with a strong interest in **Artificial In
 
 ...
 
-
-
-
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/badal-raj-aa3b3423b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajb31594@gmail.com) 
+## 🌐 Connect With Me
 
-# 💻 Tech Stack:
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,git,github,vscode,fastapi,tensorflow,pytorch,opencv&perline=6"/>
+<a href="https://www.linkedin.com/in/badal-raj-aa3b3423b/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rajb31594@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DETTONATED">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/DETTONATED/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=DETTONATED&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=DETTONATED&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=DETTONATED&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+## 💻 Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,git,github,vscode,html,css,javascript,fastapi,tensorflow,pytorch,opencv,sklearn&perline=8" />
+</p>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DETTONATED&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DETTONATED&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>e&layout=compact)
+
+## GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=DETTONATED&theme=transparent&hide_border=true"/>
+
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
