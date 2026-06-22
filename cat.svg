@@ -1,0 +1,69 @@
+<svg width="100%" viewBox="0 0 680 120" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Walking pixel cat animation</title>
+<desc>A pixel art cat walking left to right across the screen with small tail</desc>
+<style>
+  @keyframes walk {
+    0%   { transform: translateX(-80px); }
+    100% { transform: translateX(720px); }
+  }
+  @keyframes blink {
+    0%, 90%, 100% { opacity: 1; }
+    95% { opacity: 0; }
+  }
+  @keyframes tail {
+    0%, 100% { transform: rotate(-15deg); transform-origin: 12px 65px; }
+    50% { transform: rotate(15deg); transform-origin: 12px 65px; }
+  }
+  @keyframes leg1 {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-3px); }
+  }
+  @keyframes leg2 {
+    0%, 100% { transform: translateY(-3px); }
+    50% { transform: translateY(0px); }
+  }
+  .cat-group { animation: walk 6s linear infinite; }
+  .eye { animation: blink 4s infinite; }
+  .tail-g { animation: tail 0.5s ease-in-out infinite; }
+  .leg-a { animation: leg1 0.4s ease-in-out infinite; }
+  .leg-b { animation: leg2 0.4s ease-in-out infinite; }
+</style>
+
+<rect width="680" height="120" fill="none"/>
+
+<g class="cat-group">
+  <g class="tail-g">
+    <path d="M12,68 Q4,58 10,48 Q13,43 16,44" stroke="#c8a882" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <circle cx="16" cy="42" r="4" fill="#c8a882"/>
+  </g>
+  <rect x="10" y="50" width="32" height="22" rx="4" fill="#c8a882"/>
+  <rect x="32" y="36" width="24" height="22" rx="4" fill="#c8a882"/>
+  <polygon points="34,36 38,26 43,36" fill="#c8a882"/>
+  <polygon points="49,36 53,26 57,36" fill="#c8a882"/>
+  <polygon points="35,36 38,29 42,36" fill="#e8b4b8"/>
+  <polygon points="50,36 53,29 56,36" fill="#e8b4b8"/>
+  <g class="eye">
+    <rect x="37" y="42" width="4" height="4" rx="2" fill="#2d2d2d"/>
+    <rect x="48" y="42" width="4" height="4" rx="2" fill="#2d2d2d"/>
+    <rect x="38" y="43" width="1" height="1" fill="white"/>
+    <rect x="49" y="43" width="1" height="1" fill="white"/>
+  </g>
+  <rect x="43" y="48" width="3" height="2" rx="1" fill="#e88ba0"/>
+  <rect x="41" y="50" width="2" height="1" fill="#2d2d2d"/>
+  <rect x="45" y="50" width="2" height="1" fill="#2d2d2d"/>
+  <line x1="30" y1="47" x2="40" y2="49" stroke="#2d2d2d" stroke-width="0.8"/>
+  <line x1="30" y1="50" x2="40" y2="50" stroke="#2d2d2d" stroke-width="0.8"/>
+  <line x1="58" y1="47" x2="48" y2="49" stroke="#2d2d2d" stroke-width="0.8"/>
+  <line x1="58" y1="50" x2="48" y2="50" stroke="#2d2d2d" stroke-width="0.8"/>
+  <g class="leg-a">
+    <rect x="13" y="70" width="5" height="10" rx="2" fill="#b8987a"/>
+    <rect x="28" y="70" width="5" height="10" rx="2" fill="#b8987a"/>
+  </g>
+  <g class="leg-b">
+    <rect x="20" y="70" width="5" height="10" rx="2" fill="#b8987a"/>
+    <rect x="35" y="70" width="5" height="10" rx="2" fill="#b8987a"/>
+  </g>
+  <rect x="15" y="56" width="20" height="2" rx="1" fill="#b8987a" opacity="0.5"/>
+  <rect x="18" y="60" width="14" height="2" rx="1" fill="#b8987a" opacity="0.5"/>
+</g>
+</svg>
