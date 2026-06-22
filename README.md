@@ -79,11 +79,13 @@ Aspiring **Machine Learning Engineer** with a strong interest in **Artificial In
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DETTONATED&theme=github-compact&hide_border=true"/>
 </p>
 
-<h2 align="center">🐍 Contribution Snake</h2>
+![Snake Animation](https://raw.githubusercontent.com/DETTONATED/DETTONATED/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DETTONATED/DETTONATED/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DETTONATED/DETTONATED/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DETTONATED/DETTONATED/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/DETTONATED/DETTONATED/output/github-contribution-grid-snake.svg">
+</picture>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
