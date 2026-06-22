@@ -12,15 +12,7 @@
 
 ---
 
-## About Me
 
-Aspiring **Machine Learning Engineer** with a strong interest in **Artificial Intelligence, Data Science, and Backend Development**.
-
-...
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Machine+Learning+Engineer;Artificial+Intelligence+Enthusiast;Python+Developer;FastAPI+Backend+Developer;Open+Source+Learner;Data+Science+Explorer"/>
-</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/badal-raj-aa3b3423b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajb31594@gmail.com) 
