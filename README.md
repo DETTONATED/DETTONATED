@@ -1,6 +1,22 @@
+<!-- Animated Banner -->
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,25:0A66C2,50:00C6FF,75:7B68EE,100:0D1117&text=BADAL%20RAJ&fontColor=FFFFFF&fontSize=58&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20|%20AI%20Developer%20|%20Python%20Programmer&descAlignY=58&descSize=20"/>
+</p>
+
+<!-- Typing Animation -->
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Machine+Learning+Engineer;Artificial+Intelligence+Enthusiast;Data+Science+Learner;FastAPI+Backend+Developer;Python+Developer;Open+Source+Contributor"/>
+</p>
+
+---
+
 ## About Me
 
-Aspiring Machine Learning Engineer with a strong interest in Artificial Intelligence, Data Science, and Backend Development. Passionate about building practical projects, solving complex problems, and continuously expanding my technical expertise.
+Aspiring **Machine Learning Engineer** with a strong interest in **Artificial Intelligence, Data Science, and Backend Development**.
+
+...
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Machine+Learning+Engineer;Artificial+Intelligence+Enthusiast;Python+Developer;FastAPI+Backend+Developer;Open+Source+Learner;Data+Science+Explorer"/>
