@@ -14,7 +14,17 @@
 
 ## About Me
 
-Aspiring **Machine Learning Engineer** with a strong interest in **Artificial Intelligence, Data Science, and Backend Development**.
+🚀 Aspiring **Machine Learning Engineer** passionate about building AI-powered applications.
+
+💡 Interested in:
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Backend Development
+- SQL & Database Systems
+- FastAPI & Python
+
+I love learning new technologies, solving challenging problems, and creating projects that make an impact.
 
 ...
 
