@@ -32,25 +32,19 @@ I love learning new technologies, solving challenging problems, and creating pro
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/DETTONATED">
-<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000"/>
-</a>
-
-<a href="https://www.linkedin.com/in/badal-raj-aa3b3423b/">
-<img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
-</a>
-
-<a href="mailto:rajb31594@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
-</a>
-
-<a href="https://leetcode.com/u/DETTONATED/">
-<img src="https://img.shields.io/badge/LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000"/>
-</a>
-
+  <a href="https://github.com/DETTONATED">
+    <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000"/>
+  </a>
+  <a href="https://www.linkedin.com/in/badal-raj-aa3b3423b/">
+    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="mailto:rajb31594@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="https://leetcode.com/u/DETTONATED/">
+    <img src="https://img.shields.io/badge/LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000"/>
+  </a>
 </p>
-
 
 ## 💻 Tech Stack
 <p align="center">
