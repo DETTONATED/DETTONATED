@@ -93,13 +93,15 @@ I love learning new technologies, solving challenging problems, and creating pro
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DETTONATED&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
-## Visitor Counts
-![](https://komarev.com/ghpvc/?username=DETTONATED&style=for-the-badge)
+
 
 ## GitHub Trophy
 ![](https://github-profile-trophy.vercel.app/?username=DETTONATED&theme=algolia&no-frame=true&margin-w=15)
 
 ## Activity Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=DETTONATED&theme=tokyo-night)
+
+## Visitor Counts
+![](https://komarev.com/ghpvc/?username=DETTONATED&style=for-the-badge)
 
 
